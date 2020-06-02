@@ -94,9 +94,10 @@
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/bootstrap.min.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/main.js"></script>
 
-<!-- TypeKit Fonts -->
+<!-- TypeKit Fonts
 <script src="//use.typekit.net/gla7wnd.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
+================================================== -->
 
 </body>
 </html>
