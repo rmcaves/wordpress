@@ -17,7 +17,9 @@
 		<div class="row">
 			<div class="col-sm-6 col-sm-offset-3">
 				<h2>Are you ready to take your coding skills to the <strong>next level</strong>?</h2>
-				<p><a href="#" class="btn btn-lg btn-block btn-success">Yes, sign me up!</a></p>
+				<button class="btn btn-success btn-lg btn-block" data-toggle="modal" data-target="#myModal">
+					Yes, sign me up!
+                </button>
 			</div><!-- end col -->
 		</div><!-- row -->
 	</div><!-- container -->
